@@ -1,0 +1,12 @@
+[
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.tertius.todo",
+			"sha256_cert_fingerprints": [
+				"48:4C:01:5D:A4:75:E6:03:42:6D:FE:4F:DA:83:0A:89:F5:0F:44:77:81:8F:AD:41:46:47:80:F9:B8:44:B4:2D"
+			]
+		}
+	}
+]
